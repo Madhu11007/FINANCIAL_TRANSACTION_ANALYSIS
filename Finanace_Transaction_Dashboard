@@ -1,0 +1,65 @@
+# Financial Transaction Analysis Dashboard
+
+##  Project Overview
+Developed an interactive Financial Transaction Analysis Dashboard to analyze transaction performance, customer behaviour, product categories, payment methods, and geographical distribution.
+
+The dashboard provides meaningful insights into financial activities through interactive visualizations, KPI cards, and filters to support data-driven decision-making.
+
+##  Tools & Technologies
+- Microsoft Power BI
+- Power Query
+- Data Cleaning
+- Data Visualization
+- Data Analysis
+- Interactive Slicers and Filters
+
+##  Key Performance Indicators (KPIs)
+- Total Transactions: 12K
+- Total Quantity: 121K
+- Total Customers: 12K
+- Average Transaction Amount: 7.69K
+- Total Accounts: 200
+
+##  Dashboard Modules
+
+### 1. Transaction Analysis
+- Quarterly transaction distribution by year.
+- Transaction share by payment method.
+- Transaction amount by customer segment.
+- Product cost vs selling price analysis.
+
+### 2. Customer & Product Analysis
+- Amount distribution by country.
+- Product category and customer segment analysis.
+- Customer activity by quarter and year.
+- Product distribution by suppliers.
+
+### 3. Geographical & Amount Analysis
+- Transaction amount by transaction type and currency.
+- Transaction status analysis.
+- Country-wise transaction distribution using a map.
+- Transaction amount by region, transaction type, and payment method.
+
+##  Key Insights
+
+- **Transaction Overview:** Approximately 12K transactions with a total quantity of 121K.
+- **Transaction Performance:** Transaction amounts vary across countries, transaction types, and currencies.
+- **Payment Methods:** Transactions are distributed across Credit Card, UPI, Debit Card, Net Banking, PayPal, and Wire Transfer.
+- **Customer Insights:** Customer activity is compared across different segments and quarters.
+- **Product Analysis:** Product categories and supplier contributions show variations in transaction activity.
+- **Transaction Status:** Transactions are classified as Completed, Pending, and Failed.
+- **Geographical Analysis:** Country-level visualization helps identify differences in transaction activity across markets.
+
+##  Project Objectives
+- Analyze financial transaction patterns.
+- Understand customer purchasing behaviour.
+- Compare different payment methods.
+- Evaluate product and supplier performance.
+- Identify geographical transaction trends.
+- Monitor transaction status and performance.
+
+##  Conclusion
+This project demonstrates the use of Power BI for financial data analysis and interactive dashboard development. It transforms transaction data into meaningful visual insights, helping users understand financial performance, customer activity, payment preferences, and geographical trends.
+
+##  Skills Demonstrated
+Power BI | Data Analytics | Data Cleaning | Data Visualization | Business Intelligence | Dashboard Development | Analytical Thinking
